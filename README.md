@@ -18,6 +18,3 @@ network communication and the impact of encryption on data visibility.
 - HTTPS traffic encrypted application data using TLS
 - DNS queries revealed domain resolution prior to encrypted communication
 
-## Key Learning
-Encryption protects content but not all metadata.
-DNS traffic can reveal visited domains even when HTTPS is used.
